@@ -1,0 +1,25 @@
+body{
+    margin: 0;
+    padding: 0;
+    background: linear-gradient(125deg, #2C3E50, #4CA1AF)
+}
+h1{
+    color:aquamarine;
+    text-align: center;
+    font-size: 72px;
+    font-family: cursive;
+    font-weight: 100;
+
+}
+
+h1:hover{
+    font-size: 80px;
+    color: white;
+}
+    
+ul{
+    background: white;
+    display: flex;
+    justify-content: space-around;
+}
+
